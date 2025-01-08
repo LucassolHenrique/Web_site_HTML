@@ -1,5 +1,13 @@
 # Projeto: Layout Web Responsivo 🌐
 
+## Sobre o Projeto 🎬
+
+Este site foi inspirado no layout do canal do Youtuber **Kevin Powell**. O objetivo foi criar uma interface que fosse moderna e adaptável, mantendo a identidade visual do canal e oferecendo uma navegação intuitiva para os visitantes. O design foi refeito para garantir uma melhor experiência de usuário, com foco em responsividade e interação.
+
+Você pode conferir o canal do Kevin Powell no YouTube:
+
+[Visite o canal do Kevin Powell! 🎥](https://www.youtube.com/@KevinPowell)
+
 Este projeto implementa uma interface de usuário responsiva e acessível, adaptável a diferentes tamanhos de tela. Ele inclui o uso de HTML, CSS e JavaScript para criar uma experiência de navegação moderna e interativa. 🚀
 
 ## Estrutura do Projeto 🏗️
